@@ -1,1 +1,4 @@
-jdskjfkjkf
+- **JOBID**
+- **JOBTITLE**
+- **MINSALARY**
+- **MAXSALARY**
